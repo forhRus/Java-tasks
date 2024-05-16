@@ -12,7 +12,7 @@ public class ex3 {
     String[] strings = new String[]{"Тёмная ночь", "Java++", "Поток", "", "Вкусняшка"};
 
     for (String string : strings) {
-      
+
       if(!isVoid(string)){
         System.out.printf("%s - \"%s\"\n", string, string.charAt(string.length()-1));
       } else{
