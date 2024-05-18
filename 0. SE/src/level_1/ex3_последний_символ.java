@@ -1,11 +1,9 @@
 package level_1;
 
-import java.util.Scanner;
-
 /*
 Дана строка. Выведите в консоль последний символ строки.
  */
-public class ex3 {
+public class ex3_последний_символ {
 
   public static void main(String[] args) {
 

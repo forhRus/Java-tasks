@@ -3,7 +3,7 @@ package level_1;
 /*
 Дано число. Проверьте, четное оно или нет.
  */
-public class ex4 {
+public class ex4_чёт_нечёт {
   public static void main(String[] args) {
 
     int[] numbers = new int[]{1, -7, 0, 3, 4};

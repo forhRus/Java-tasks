@@ -3,9 +3,9 @@ package level_1;
 import java.util.Scanner;
 
 /*
-№2 Дана строка. Выведите в консоль длину этой строки.
+Дана строка. Выведите в консоль длину этой строки.
  */
-public class ex2 {
+public class ex2_длина_строки {
     static final String EXIT = "exit";
 
   public static void main(String[] args) {

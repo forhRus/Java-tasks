@@ -3,7 +3,7 @@ package level_1;
 /*
 Даны два слова. Проверьте, что первые буквы этих слов совпадают.
  */
-public class ex5 {
+public class ex5_сравнение_первых_букв {
   public static void main(String[] args) {
 
     String[] words = new String[]{"Кот", "Вес", "Осень", "", "Лохань", "Астра"};

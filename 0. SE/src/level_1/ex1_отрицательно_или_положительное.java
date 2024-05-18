@@ -3,9 +3,9 @@ package level_1;
 import java.util.Scanner;
 
 /*
-1. Дано число. Проверьте, отрицательное оно или нет. Выведите об этом информацию в консоль.
+Дано число. Проверьте, отрицательное оно или нет. Выведите об этом информацию в консоль.
  */
-public class ex1 {
+public class ex1_отрицательно_или_положительное {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
